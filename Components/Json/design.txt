@@ -1,0 +1,23 @@
+1. Signup Table
+
+    1. Full Name
+    2. Mobile Number
+    3. Date of birth
+    4. Gender
+    5. Password
+    6. Confirm Password
+
+    After Submit It send OTP to mobile number to verify user & then the signup process has been complated.
+
+2. Signin Table
+
+    1. Phone Number
+    2. Password
+
+    After successful signin it move to Branch Screen, and select any branch to enter
+
+3. Forget Password
+
+    1. Phone Number
+
+    Send OTP to number & if OTP is correct then go to the new password field

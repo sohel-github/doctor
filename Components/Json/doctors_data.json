@@ -1,0 +1,230 @@
+{
+    "branches": [
+        {
+            "id": 1,
+            "name": "Gulshan",
+            "address": "House 20, Road 10, Gulshan, Dhaka-1212",
+            "doctors": [
+                {
+                    "id": 1,
+                    "name": "Sadul Haque",
+                    "avator": "https://placeimg.com/200/200/people",
+                    "designation": "Assoc Prof. Dr M Sadul Haque",
+                    "department": "Natural Medicine",
+                    "visit_time": "10:00 AM",
+                    "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                    "fee": "500",
+                    "room": "100"
+                },
+                {
+                    "id": 2,
+                    "name": "Ahmed Sharif",
+                    "avator": "https://placeimg.com/200/200/people",
+                    "designation": "Assoc Prof. Dr Afzal Hossain",
+                    "department": "Nuro Medicine",
+                    "visit_time": "4:30 PM",
+                    "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                    "fee": "600",
+                    "room": "120"
+                },
+                {
+                    "id": 3,
+                    "name": "Yasmin Joarder",
+                    "avator": "https://placeimg.com/200/200/people",
+                    "designation": "Prof. Dr Yasmin Joarder",
+                    "department": "Skin",
+                    "visit_time": "10:30 AM",
+                    "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                    "fee": "700",
+                    "room": "140"
+                },
+                {
+                    "id": 4,
+                    "name": "Md Wahiduzzaman",
+                    "avator": "https://placeimg.com/200/200/people",
+                    "designation": "Prof. Dr Wahiduzzaman",
+                    "department": "E N T",
+                    "visit_time": "7:00 AM",
+                    "remark": "Visit time 7:00 AM to 1:00 PM, Friday Closed",
+                    "fee": "500",
+                    "room": "150"
+                },
+                {
+                    "id": 5,
+                    "name": "Md Rezwan Shah",
+                    "avator": "https://placeimg.com/200/200/people",
+                    "designation": "Prof. Dr Md Rezwan Shah",
+                    "department": "E N T",
+                    "visit_time": "6:00 PM",
+                    "remark": "Visit time 6:00 PM to 9:00 PM, Friday Closed",
+                    "fee": "700",
+                    "room": "200"
+                }
+            ],
+            "specialized": [
+                {
+                    "id": 1,
+                    "name": "Cardiology",
+                    "doctors": [
+                        {
+                            "id": 1,
+                            "name": "MD Harun",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr MD Harun",
+                            "department": "Cardiology",
+                            "visit_time": "10:00 AM",
+                            "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                            "fee": "700",
+                            "room": "120"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Tajimul Islam",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Tajimul Islam",
+                            "department": "Cardiology",
+                            "visit_time": "10:00 AM",
+                            "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                            "fee": "600",
+                            "room": "110"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Harun Mollah",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Harun Mollah",
+                            "department": "Cardiology",
+                            "visit_time": "10:00 AM",
+                            "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                            "fee": "600",
+                            "room": "110"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Chest & Medicine",
+                    "doctors": [
+                        {
+                            "id": 1,
+                            "name": "Md Tareq",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Md Tareq",
+                            "department": "Chest & Medicine",
+                            "visit_time": "12:00 AM",
+                            "remark": "Visit time 12:00 AM to 3:00 PM, Friday Closed",
+                            "fee": "600",
+                            "room": "140"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Humayun Kabir",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Humayun Kabir",
+                            "department": "Chest & Medicine",
+                            "visit_time": "12:00 AM",
+                            "remark": "Visit time 12:00 AM to 3:00 PM, Friday Closed",
+                            "fee": "700",
+                            "room": "150"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Colorectal Surgery",
+                    "doctors": [
+                        {
+                            "id": 1,
+                            "name": "Md Naim",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Md Naim",
+                            "department": "Colorectal Surgery",
+                            "visit_time": "11:00 AM",
+                            "remark": "Visit time 11:00 AM to 1:00 PM, Friday Closed",
+                            "fee": "500",
+                            "room": "180"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hasan Mahmud",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Hasan Mahmud",
+                            "department": "Colorectal Surgery",
+                            "visit_time": "5:00 PM",
+                            "remark": "Visit time 5:00 PM to 8:00 PM, Friday Closed",
+                            "fee": "500",
+                            "room": "180"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Bappa Mojumder",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Bappa Mojumder",
+                            "department": "Colorectal Surgery",
+                            "visit_time": "5:00 PM",
+                            "remark": "Visit time 5:00 PM to 8:00 PM, Friday Closed",
+                            "fee": "700",
+                            "room": "190"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Diabetes",
+                    "doctors": [
+                        {
+                            "id": 1,
+                            "name": "Zaforullah Chowdury",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Zaforullah Chowdury",
+                            "department": "Diabetes",
+                            "visit_time": "10:00 AM",
+                            "remark": "Visit time 10:00 AM to 1:00 PM, Friday Closed",
+                            "fee": "700",
+                            "room": "160"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Hasan Masud",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Hasan Masud",
+                            "department": "Diabetes",
+                            "visit_time": "11:00 AM",
+                            "remark": "Visit time 11:00 AM to 2:00 PM, Friday Closed",
+                            "fee": "800",
+                            "room": "200"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Gastroentrology",
+                    "doctors": [
+                        {
+                            "id": 1,
+                            "name": "Hasanul Karim",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Hasanul Karim",
+                            "department": "Gastroentrology",
+                            "visit_time": "11:00 AM",
+                            "remark": "Visit time 11:00 AM to 3:00 PM, Friday Closed",
+                            "fee": "800",
+                            "room": "190"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Tahmidul Islam",
+                            "avator": "https://placeimg.com/200/200/people",
+                            "designation": "Assoc Prof. Dr Tahmidul Islam",
+                            "department": "Gastroentrology",
+                            "visit_time": "10:00 AM",
+                            "remark": "Visit time 10:00 AM to 3:00 PM, Friday Closed",
+                            "fee": "700",
+                            "room": "200"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
